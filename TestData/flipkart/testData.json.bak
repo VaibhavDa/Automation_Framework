@@ -1,0 +1,31 @@
+{ "seleniumQTP": {
+    "login": [
+        { "username": "Mahesh",
+        "password": "MyPassword",
+        "confirmpass": "YourPassword",
+	"age": 36
+      },
+        { "username": "Nitin",
+        "password": "nitinPassword",
+        "confirmpass": "maheshPassword",
+	"age": 26
+      },
+        { "username": "Sana",
+        "password": "sanaPassword",
+        "confirmpass": "reshmaPassword",
+	"age": 22
+      },
+        { "username": "wrong",
+        "password": "wrong",
+        "confirmpass": "YourPassword",
+	"age": 52
+      }
+    ],
+    "registerPageTwo": {
+      "email": "a@a.com",
+      "firstname": "automated",
+      "lastname": "script",
+      "mobileNum": "9876543210"
+    }
+  }
+}

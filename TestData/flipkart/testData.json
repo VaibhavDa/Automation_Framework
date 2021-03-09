@@ -1,0 +1,23 @@
+{ "Flipkart": {
+    "loginWorkFlow": [
+        { 
+        "loginPage": 1,
+        "username": "your user",
+        "password": "your password",
+        "pageTitle": "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!"
+        },
+        { 
+        "dashboardPage": 2,
+        "pageTitle": "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",
+        "bookToSearch": "Selenium Book"
+        }
+    ],
+    "commonForProject": {
+      "url": "https://flipkart.com/",
+      "browser": {
+       "brow1": "chrome",
+       "brow2": "firefox"
+      }
+    }
+  }
+}

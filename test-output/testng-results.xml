@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85323" started-at="2021-03-01T11:57:33Z" finished-at="2021-03-01T11:58:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85323" started-at="2021-03-01T11:57:33Z" finished-at="2021-03-01T11:58:58Z">
+      <class name="flipKart_Page_Tests.Login_Page_Test">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:flipKart_Page_Tests.Login_Page_Test@61d47554]" name="beforeEachTest" is-config="true" duration-ms="9675" started-at="2021-03-01T17:27:33Z" finished-at="2021-03-01T17:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="loginFlipkart()[pri:0, instance:flipKart_Page_Tests.Login_Page_Test@61d47554]" name="loginFlipkart" duration-ms="75626" started-at="2021-03-01T17:27:43Z" finished-at="2021-03-01T17:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlipkart -->
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:flipKart_Page_Tests.Login_Page_Test@61d47554]" name="afterEachTest" is-config="true" duration-ms="1" started-at="2021-03-01T17:28:58Z" finished-at="2021-03-01T17:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- flipKart_Page_Tests.Login_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
